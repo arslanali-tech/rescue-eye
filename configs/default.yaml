@@ -1,0 +1,25 @@
+# RescueEye default configuration
+seed: 0
+data_root: data
+max_side: 1920          # all images are stored with this max side (pixels)
+classes: [person, vehicle, boat, flooded_building]
+sources:
+  seadronessee:
+    pool: 360           # images sampled from the official train split (labelled/unlabelled pool)
+    test: 120           # images sampled from the official val split (held-out test)
+    eval_classes: [person, boat]
+  visdrone:
+    pool: 360           # from VisDrone2019-DET-val
+    test: 120           # from VisDrone2019-DET-test-dev
+    eval_classes: [person, vehicle]
+  floodnet:
+    flooded_pool: 26
+    flooded_test: 26
+    nonflooded_pool: 94
+    nonflooded_test: 54
+    eval_classes: [vehicle, flooded_building]
+prompts:                 # default text prompts per class (open-vocabulary)
+  person: person
+  vehicle: car
+  boat: boat
+  flooded_building: flooded house

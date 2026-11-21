@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rescueeye"
+version = "0.1.0"
+description = "RescueEye: open-vocabulary detection, slicing and teacher-student distillation for aerial flood-rescue imagery, on CPU"
+authors = [{name = "Arslan Ali"}]
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = [
+  "numpy", "scipy", "scikit-learn", "matplotlib", "pandas", "pyyaml", "requests", "tqdm", "pillow",
+  "opencv-python-headless", "torch", "torchvision", "ultralytics", "transformers", "sahi", "supervision",
+  "pycocotools", "remotezip", "huggingface_hub", "imageio", "lap",
+]
+
+[project.optional-dependencies]
+app = ["gradio"]
+dev = ["pytest"]
+
+[project.scripts]
+rescueeye = "rescueeye.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
