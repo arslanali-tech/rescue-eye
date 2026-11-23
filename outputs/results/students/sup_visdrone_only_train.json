@@ -1,0 +1,10 @@
+{
+ "run": "sup_visdrone_only",
+ "gt_tiles": 600,
+ "pseudo_tiles": 0,
+ "tiles": 600,
+ "epochs": 10,
+ "gt_images": 360,
+ "pseudo_images": 0,
+ "train_min": 8.321092387040457
+}

@@ -1,0 +1,10 @@
+{
+ "run": "sup_100pct",
+ "gt_tiles": 600,
+ "pseudo_tiles": 0,
+ "tiles": 600,
+ "epochs": 10,
+ "gt_images": 840,
+ "pseudo_images": 0,
+ "train_min": 8.467119789123535
+}
