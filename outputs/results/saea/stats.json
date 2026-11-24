@@ -1,0 +1,29 @@
+{
+ "final_best": {
+  "Random search": {
+   "mean": 0.3957015942829165,
+   "std": 0.011288575754567931,
+   "n": 10
+  },
+  "Genetic algorithm": {
+   "mean": 0.4080978064037433,
+   "std": 0.015307668210989552,
+   "n": 10
+  },
+  "SAEA (GP + EI, evolutionary infill)": {
+   "mean": 0.40695249208903395,
+   "std": 0.011316941879749758,
+   "n": 10
+  }
+ },
+ "tests": {
+  "SAEA (GP + EI, evolutionary infill) vs Random search": {
+   "wilcoxon_p": 0.0419921875,
+   "mannwhitney_p": 0.01056696406458055
+  },
+  "SAEA (GP + EI, evolutionary infill) vs Genetic algorithm": {
+   "wilcoxon_p": 0.6875,
+   "mannwhitney_p": 0.6331350021518765
+  }
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "rows": [
+  {
+   "method": "Random search",
+   "seed": 0,
+   "tune_F1": 0.4139289703021862,
+   "test_F1": 0.39364244170586526
+  },
+  {
+   "method": "Genetic algorithm",
+   "seed": 0,
+   "tune_F1": 0.4271410570120011,
+   "test_F1": 0.39903162697290734
+  },
+  {
+   "method": "SAEA (GP + EI, evolutionary infill)",
+   "seed": 0,
+   "tune_F1": 0.41495159437768164,
+   "test_F1": 0.3790588851111973
+  },
+  {
+   "method": "Random search",
+   "seed": 1,
+   "tune_F1": 0.3844186181900328,
+   "test_F1": 0.3767097541811654
+  },
+  {
+   "method": "Genetic algorithm",
+   "seed": 1,
+   "tune_F1": 0.41057333678812574,
+   "test_F1": 0.38750613558990815
+  },
+  {
+   "method": "SAEA (GP + EI, evolutionary infill)",
+   "seed": 1,
+   "tune_F1": 0.4214073788914227,
+   "test_F1": 0.379715696785913
+  },
+  {
+   "method": "Random search",
+   "seed": 2,
+   "tune_F1": 0.38859072697214575,
+   "test_F1": 0.37692353242959525
+  },
+  {
+   "method": "Genetic algorithm",
+   "seed": 2,
+   "tune_F1": 0.4137165145873137,
+   "test_F1": 0.39714644064058646
+  },
+  {
+   "method": "SAEA (GP + EI, evolutionary infill)",
+   "seed": 2,
+   "tune_F1": 0.41149905668765524,
+   "test_F1": 0.3876546599681064
+  },
+  {
+   "method": "Random search",
+   "seed": 3,
+   "tune_F1": 0.40080440747757445,
+   "test_F1": 0.3864583680153071
+  },
+  {
+   "method": "Genetic algorithm",
+   "seed": 3,
+   "tune_F1": 0.4135391494175609,
+   "test_F1": 0.3672974415011763
+  },
+  {
+   "method": "SAEA (GP + EI, evolutionary infill)",
+   "seed": 3,
+   "tune_F1": 0.39057267991131833,
+   "test_F1": 0.3654682130030613
+  },
+  {
+   "method": "Random search",
+   "seed": 4,
+   "tune_F1": 0.3902892666849634,
+   "test_F1": 0.36899331164184734
+  },
+  {
+   "method": "Genetic algorithm",
+   "seed": 4,
+   "tune_F1": 0.3744614548967517,
+   "test_F1": 0.34845556057068644
+  },
+  {
+   "method": "SAEA (GP + EI, evolutionary infill)",
+   "seed": 4,
+   "tune_F1": 0.4169717322568775,
+   "test_F1": 0.39406737607244763
+  },
+  {
+   "method": "Random search",
+   "seed": 5,
+   "tune_F1": 0.4042690580971877,
+   "test_F1": 0.3631481744095409
+  },
+  {
+   "method": "Genetic algorithm",
+   "seed": 5,
+   "tune_F1": 0.39742500183578494,
+   "test_F1": 0.36243754399432776
+  },
+  {
+   "method": "SAEA (GP + EI, evolutionary infill)",
+   "seed": 5,
+   "tune_F1": 0.4143317523111445,
+   "test_F1": 0.3952966988585795
+  },
+  {
+   "method": "Random search",
+   "seed": 6,
+   "tune_F1": 0.3888683407344524,
+   "test_F1": 0.358709220997304
+  },
+  {
+   "method": "Genetic algorithm",
+   "seed": 6,
+   "tune_F1": 0.4028922154163992,
+   "test_F1": 0.3919635992090397
+  },
+  {
+   "method": "SAEA (GP + EI, evolutionary infill)",
+   "seed": 6,
+   "tune_F1": 0.39216722945424815,
+   "test_F1": 0.3646471223299074
+  },
+  {
+   "method": "Random search",
+   "seed": 7,
+   "tune_F1": 0.3813010066961355,
+   "test_F1": 0.37613288208148893
+  },
+  {
+   "method": "Genetic algorithm",
+   "seed": 7,
+   "tune_F1": 0.3947111557610988,
+   "test_F1": 0.3776414794099619
+  },
+  {
+   "method": "SAEA (GP + EI, evolutionary infill)",
+   "seed": 7,
+   "tune_F1": 0.39625767821774466,
+   "test_F1": 0.39049290548699056
+  },
+  {
+   "method": "Random search",
+   "seed": 8,
+   "tune_F1": 0.39012683421558764,
+   "test_F1": 0.38671915286743763
+  },
+  {
+   "method": "Genetic algorithm",
+   "seed": 8,
+   "tune_F1": 0.4242472283244392,
+   "test_F1": 0.3982426303393123
+  },
+  {
+   "method": "SAEA (GP + EI, evolutionary infill)",
+   "seed": 8,
+   "tune_F1": 0.4163550103612749,
+   "test_F1": 0.3794889629558995
+  },
+  {
+   "method": "Random search",
+   "seed": 9,
+   "tune_F1": 0.4144187134588994,
+   "test_F1": 0.3870129185326067
+  },
+  {
+   "method": "Genetic algorithm",
+   "seed": 9,
+   "tune_F1": 0.42227094999795806,
+   "test_F1": 0.3758399842272766
+  },
+  {
+   "method": "SAEA (GP + EI, evolutionary infill)",
+   "seed": 9,
+   "tune_F1": 0.3950108084209724,
+   "test_F1": 0.379329870715976
+  }
+ ],
+ "summary": {
+  "Random search": {
+   "test_F1_mean": 0.3774449756862158,
+   "test_F1_std": 0.0107263541728862
+  },
+  "Genetic algorithm": {
+   "test_F1_mean": 0.38055624424551826,
+   "test_F1_std": 0.016349579130288124
+  },
+  "SAEA (GP + EI, evolutionary infill)": {
+   "test_F1_mean": 0.38152203912880783,
+   "test_F1_std": 0.010129014576799678
+  }
+ }
+}

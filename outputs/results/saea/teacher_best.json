@@ -1,0 +1,17 @@
+{
+ "prompt_set": "ensemble",
+ "passes": [
+  "full1280"
+ ],
+ "merge": "nmm",
+ "merge_thr": 0.71,
+ "conf": {
+  "person": 0.113,
+  "vehicle": 0.101,
+  "boat": 0.347,
+  "flooded_building": 0.5
+ },
+ "pre_conf": 0.02,
+ "min_side": 0.0,
+ "max_det": 500
+}
