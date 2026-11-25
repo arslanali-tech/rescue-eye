@@ -1,0 +1,8 @@
+id,class,score,x0,y0,x1,y1,water_fraction,dist_to_water_px,boat_nearby,priority,lon,lat
+0,vehicle,0.838,950,666,974,709,0.12,14.2,0,MEDIUM,,
+1,vehicle,0.509,927,536,945,568,0.00,26.2,0,MEDIUM,,
+2,flooded_building,0.425,737,403,960,595,0.02,107.1,0,HIGH,,
+3,flooded_building,0.392,750,402,895,512,0.01,73.6,0,HIGH,,
+4,flooded_building,0.386,914,334,1144,559,0.01,145.5,0,HIGH,,
+5,flooded_building,0.307,1144,448,1280,541,0.00,103.9,0,HIGH,,
+6,flooded_building,0.283,956,891,1121,960,0.01,99.3,0,HIGH,,

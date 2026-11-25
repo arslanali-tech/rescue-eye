@@ -1,0 +1,342 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     760.0,
+     300.5
+    ]
+   },
+   "properties": {
+    "class": "boat",
+    "score": 0.797,
+    "priority": "MEDIUM",
+    "box_px": [
+     710,
+     285,
+     810,
+     316
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1636.0,
+     20.0
+    ]
+   },
+   "properties": {
+    "class": "boat",
+    "score": 0.697,
+    "priority": "MEDIUM",
+    "box_px": [
+     1592,
+     4,
+     1680,
+     36
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     844.0,
+     18.5
+    ]
+   },
+   "properties": {
+    "class": "boat",
+    "score": 0.603,
+    "priority": "MEDIUM",
+    "box_px": [
+     817,
+     0,
+     871,
+     37
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     578.5,
+     496.5
+    ]
+   },
+   "properties": {
+    "class": "person",
+    "score": 0.481,
+    "priority": "LOW",
+    "box_px": [
+     566,
+     491,
+     591,
+     502
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     599.0,
+     20.0
+    ]
+   },
+   "properties": {
+    "class": "boat",
+    "score": 0.476,
+    "priority": "MEDIUM",
+    "box_px": [
+     568,
+     0,
+     630,
+     40
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     409.5,
+     355.0
+    ]
+   },
+   "properties": {
+    "class": "boat",
+    "score": 0.441,
+    "priority": "MEDIUM",
+    "box_px": [
+     397,
+     339,
+     422,
+     371
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     632.0,
+     494.0
+    ]
+   },
+   "properties": {
+    "class": "person",
+    "score": 0.425,
+    "priority": "LOW",
+    "box_px": [
+     627,
+     488,
+     637,
+     500
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     845.0,
+     479.0
+    ]
+   },
+   "properties": {
+    "class": "person",
+    "score": 0.39,
+    "priority": "HIGH",
+    "box_px": [
+     839,
+     473,
+     851,
+     485
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     599.0,
+     31.5
+    ]
+   },
+   "properties": {
+    "class": "boat",
+    "score": 0.379,
+    "priority": "MEDIUM",
+    "box_px": [
+     569,
+     23,
+     629,
+     40
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     961.0,
+     427.5
+    ]
+   },
+   "properties": {
+    "class": "person",
+    "score": 0.351,
+    "priority": "HIGH",
+    "box_px": [
+     953,
+     419,
+     969,
+     436
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     646.5,
+     476.0
+    ]
+   },
+   "properties": {
+    "class": "person",
+    "score": 0.351,
+    "priority": "LOW",
+    "box_px": [
+     639,
+     471,
+     654,
+     481
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     863.5,
+     30.5
+    ]
+   },
+   "properties": {
+    "class": "boat",
+    "score": 0.348,
+    "priority": "MEDIUM",
+    "box_px": [
+     847,
+     21,
+     880,
+     40
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     875.5,
+     473.5
+    ]
+   },
+   "properties": {
+    "class": "person",
+    "score": 0.338,
+    "priority": "LOW",
+    "box_px": [
+     872,
+     469,
+     879,
+     478
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     410.0,
+     355.5
+    ]
+   },
+   "properties": {
+    "class": "person",
+    "score": 0.301,
+    "priority": "LOW",
+    "box_px": [
+     398,
+     339,
+     422,
+     372
+    ],
+    "boat_nearby": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     740.5,
+     478.5
+    ]
+   },
+   "properties": {
+    "class": "person",
+    "score": 0.3,
+    "priority": "LOW",
+    "box_px": [
+     736,
+     474,
+     745,
+     483
+    ],
+    "boat_nearby": false
+   }
+  }
+ ],
+ "properties": {
+  "coordinates": "image pixels (x, y); pass --geo for lon/lat",
+  "image_size": [
+   1080,
+   1920
+  ]
+ }
+}

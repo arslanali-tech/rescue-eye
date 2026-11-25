@@ -1,0 +1,5 @@
+{
+ "water_IoU_all_test": 0.4783943144175619,
+ "water_IoU_flooded_scenes": 0.3824658476012874,
+ "train_images": 120
+}

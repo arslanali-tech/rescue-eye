@@ -1,0 +1,166 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     962.0,
+     687.5
+    ]
+   },
+   "properties": {
+    "class": "vehicle",
+    "score": 0.838,
+    "priority": "MEDIUM",
+    "box_px": [
+     950,
+     666,
+     974,
+     709
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     936.0,
+     552.0
+    ]
+   },
+   "properties": {
+    "class": "vehicle",
+    "score": 0.509,
+    "priority": "MEDIUM",
+    "box_px": [
+     927,
+     536,
+     945,
+     568
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     848.5,
+     499.0
+    ]
+   },
+   "properties": {
+    "class": "flooded_building",
+    "score": 0.425,
+    "priority": "HIGH",
+    "box_px": [
+     737,
+     403,
+     960,
+     595
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     822.5,
+     457.0
+    ]
+   },
+   "properties": {
+    "class": "flooded_building",
+    "score": 0.392,
+    "priority": "HIGH",
+    "box_px": [
+     750,
+     402,
+     895,
+     512
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1029.0,
+     446.5
+    ]
+   },
+   "properties": {
+    "class": "flooded_building",
+    "score": 0.386,
+    "priority": "HIGH",
+    "box_px": [
+     914,
+     334,
+     1144,
+     559
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1212.0,
+     494.5
+    ]
+   },
+   "properties": {
+    "class": "flooded_building",
+    "score": 0.307,
+    "priority": "HIGH",
+    "box_px": [
+     1144,
+     448,
+     1280,
+     541
+    ],
+    "boat_nearby": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1038.5,
+     925.5
+    ]
+   },
+   "properties": {
+    "class": "flooded_building",
+    "score": 0.283,
+    "priority": "HIGH",
+    "box_px": [
+     956,
+     891,
+     1121,
+     960
+    ],
+    "boat_nearby": false
+   }
+  }
+ ],
+ "properties": {
+  "coordinates": "image pixels (x, y); pass --geo for lon/lat",
+  "image_size": [
+   960,
+   1280
+  ]
+ }
+}

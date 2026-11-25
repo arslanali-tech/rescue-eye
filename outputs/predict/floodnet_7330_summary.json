@@ -1,0 +1,14 @@
+{
+ "counts": {
+  "vehicle": 6,
+  "flooded_building": 8
+ },
+ "levels": {
+  "LOW": 2,
+  "MEDIUM": 4,
+  "HIGH": 8,
+  "CRITICAL": 0
+ },
+ "people_in_or_near_water": 0,
+ "people_without_boat_nearby_in_water": 0
+}
