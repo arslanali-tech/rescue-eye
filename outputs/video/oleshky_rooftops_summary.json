@@ -1,0 +1,12 @@
+{
+ "video": "data/video/oleshky.webm",
+ "fps_sampled": 5.0,
+ "start_s": 0.0,
+ "frames": 60,
+ "unique_tracks": {
+  "person": 1,
+  "flooded_building": 1,
+  "boat": 1
+ },
+ "sum_of_per_frame_detections": 61
+}

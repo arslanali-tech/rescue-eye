@@ -1,0 +1,10 @@
+{
+ "video": "data/video/aqqala.webm",
+ "fps_sampled": 2.0,
+ "start_s": 40.0,
+ "frames": 60,
+ "unique_tracks": {
+  "flooded_building": 12
+ },
+ "sum_of_per_frame_detections": 271
+}
